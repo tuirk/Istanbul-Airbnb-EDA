@@ -3,6 +3,8 @@ This is another beginner friendly EDA project applied on Istanbul Airbnb listing
 
 EDA is applied using the fundamental Python function similar to the previous Maintenance EDA project (https://github.com/tuirk/Maintenance-Data-Set-EDA) but this time the scope and research questions are defined.
 
+![Wordcloud](wordcloud.png)
+
 The aim of this project is to examine the data of AirBnbs in Istanbul from the perspective of someone who wants to buy an investment property in Istanbul. In this context, answers to the following questions will be sought:
 
 1. Which neighborhood has the most AirBnb?
